@@ -1,0 +1,16 @@
+{
+  "name": "limit-handler",
+  "version": "1.0.0",
+  "description": "A rate-limit handling utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "rate",
+    "limit",
+    "rate-limit"
+  ],
+  "author": "William Marino",
+  "license": "ISC"
+}
